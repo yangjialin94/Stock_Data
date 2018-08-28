@@ -1,0 +1,8 @@
+numpy
+matplotlib
+sqlite
+datetime
+iexfinance
+ast
+tkinter
+sklearn
